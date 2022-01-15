@@ -1,9 +1,10 @@
 body{
   box-sizing: content-box;
+  background-color: rgb(255 152 0 / 52%);
 }
 /* Style the video: 100% width and height to cover the entire window */
 #myVideo {
-    position: fixed;
+    position: absolute;
     left: 0;
     bottom: 0;
     top: 0;
